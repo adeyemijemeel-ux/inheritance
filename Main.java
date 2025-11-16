@@ -17,7 +17,7 @@ class Child extends Parent
         System.out.println("Age of student is:"+age);
     } 
 }
-class main
+class Main
 {   
     public static void main(String [] er)
     {
